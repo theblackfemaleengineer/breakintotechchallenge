@@ -1,0 +1,12 @@
+/* Default light mode styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+}
+
+/* Dark mode styles */
+.dark-mode {
+    background-color: black;
+    color: white;
+}
